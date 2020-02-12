@@ -1,4 +1,4 @@
-package com.springboot.skeleton;
+package com.springboot.skeleton.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

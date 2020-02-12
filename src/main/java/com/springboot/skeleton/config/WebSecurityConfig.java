@@ -1,4 +1,4 @@
-package com.springboot.skeleton;
+package com.springboot.skeleton.config;
 
 import com.springboot.skeleton.auth.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
